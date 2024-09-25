@@ -4,7 +4,7 @@
 
 ### Day-1:
     - Python basics
-    - **OOPs**:
+    **OOPs**:
         1. Class
         2. Objects
         3. Attributes (Class and Instance)
