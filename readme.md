@@ -16,3 +16,8 @@
     - `self` keyword
     - Decorator
     - Alternate Constructor
+- **Numpy**
+- **Pandas**
+- **CS-299**
+    - SVM
+    
