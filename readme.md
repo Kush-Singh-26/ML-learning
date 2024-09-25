@@ -1,20 +1,18 @@
 # ML
 
-## Progress 
+## Progress
 
 ### Day-1:
-    - Python basics
-    **OOPs**:
-        1. Class
-        2. Objects
-        3. Attributes (Class and Instance)
-        4. Methods (Instance, Class and Static)
-
---- 
+- Python basics
+- **OOPs-1**:
+    - Class
+    - Objects
+    - Attributes (Class and Instance)
+    - Methods (Instance, Class, and Static)
+---
 ### Day-2:
+- **OOPs-2**
     - `__init__` method
     - `self` keyword
     - Decorator
     - Alternate Constructor
-    
-
