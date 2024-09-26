@@ -20,4 +20,8 @@
 - **Pandas**
 - **CS-299**
     - SVM
+
+---
+### Day-3:
+- **Matplotlib**
     
